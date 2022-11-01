@@ -1,0 +1,18 @@
+outline:
+I. Basic step
+- check duplicated
+- check null, vẽ bảng phần trăm
+- xử lý null ? (features percentage missing cao (drop),
+                features percentage missing thấp < 5% options: drop row hay fill nan hay fill median, mode
+                features percentage missing 5% đến 35%: lựa chọn fill mean, mode, median
+                features percentage missing 35% đến 60%: fill một số cột có ý nghĩa với data, drop columns không có nghĩa
+                features percentage missing > 60%: auto drop)
+- vẽ corr heatmap
+- handle outliners ??????
+
+II. Select features and analytics
+- Select feature dựa trên heatmap (corr cao tránh collinearity đa cộng tuyến)
+- Analytics từng bảng (cá nhân)
+
+III.Advanced Analytics
+- Phân tích liên bảng 
