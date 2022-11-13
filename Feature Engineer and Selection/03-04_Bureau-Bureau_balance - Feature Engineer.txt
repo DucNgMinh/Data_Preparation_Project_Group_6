@@ -1,0 +1,1 @@
+Feature Engineer and Selection step for bureau.csv and bureau_balance.csv have been done in EDA step also.
