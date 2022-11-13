@@ -8,5 +8,6 @@
   * Le Huy Phong 
   
   [Link to Kaggle data about Home Credit Default Risk ](https://www.kaggle.com/competitions/home-credit-default-risk)
+  [Link to Data Preprocessed File](https://drive.google.com/drive/folders/1FQYwYaWsNSMVemAqvVbtUaIIdTyErh17?usp=sharing)
   
   
