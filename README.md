@@ -1,1 +1,12 @@
-# Data_Preparation_Group_6
+# Data-Preparation-Group-6
+
+### This is the notebook for midterm EDA project by Group 6, DSEB K62, NEU
+  
+  * Nguyen Minh Duc ( Group leader )
+  * Nguyen Ngoc Dat
+  * Le Quoc Minh
+  * Le Huy Phong 
+  
+  [Link to Kaggle data about Home Credit Default Risk ](https://www.kaggle.com/competitions/home-credit-default-risk)
+  
+  
