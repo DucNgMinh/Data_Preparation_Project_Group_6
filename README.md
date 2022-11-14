@@ -15,9 +15,10 @@
   
   ### Assigned work:
   * Nguyen Minh Duc: 
-    - EDA: 02_Previous_application
-           05_POS_Cash_balance 
-    - Feature Engineer: 
+    - EDA:<br /> 
+      * 02_Previous_application
+      * 05_POS_Cash_balance 
+    - Feature Engineer: <br />
                         01_application_train <br />
                         02_Previous_application <br />
                         05_POS_Cash_balance <br />
