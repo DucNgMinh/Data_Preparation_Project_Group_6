@@ -13,5 +13,26 @@
   
   [Link to Slide](https://www.canva.com/design/DAFRRcqoeBI/QisaOx3BvIi22G1f8Y4DcQ/view?utm_content=DAFRRcqoeBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR1JB3cgFPVzqArRuoW97u2GkmN3paQslgHTvoWO9TGrherCau-_kkKYkjE)
   
-  
-  
+  ### Assigned work:
+  * Nguyen Minh Duc: 
+    - EDA: 02_Previous_application
+           05_POS_Cash_balance 
+    - Feature Engineer: 01_application_train 
+                        02_Previous_application
+                        05_POS_Cash_balance 
+                        08_Feature Selection Final (Merge data and Feature )
+  * Nguyen Ngoc Dat:
+    - EDA: 03_Bureau
+           04_Bureau_balance
+    - Feature Engineer: 03_Bureau
+                        04_Bureau_balance
+                        08_Feature Selection Final (handle outliners)
+  * Le Quoc Minh:
+    - EDA: 01_application_train 
+    - Feature Engineer: 01_application_train 
+                        08_Feature Selection Final (handle outliners)
+  * Le Huy Phong:
+    - EDA: 06_instalment_payment
+           07_credit_card_balance 
+    - Feature Engineer:
+    - Slide
