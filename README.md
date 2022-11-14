@@ -18,10 +18,10 @@
     - EDA: 02_Previous_application
            05_POS_Cash_balance 
     - Feature Engineer: 
-                        01_application_train 
-                        02_Previous_application
-                        05_POS_Cash_balance 
-                        08_Feature Selection Final (Merge data and Feature )
+                        01_application_train <br />
+                        02_Previous_application <br />
+                        05_POS_Cash_balance <br />
+                        08_Feature Selection Final (Merge data and Feature ) 
   * Nguyen Ngoc Dat:
     - EDA: 03_Bureau
            04_Bureau_balance
